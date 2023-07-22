@@ -400,12 +400,9 @@
     "user" : [
       {
       "username": "Manikant kumar",
-      "address":{
-          "city": "Pune",
-          "pin": 123456,
-          "state": "Bihar",
-          "phone": 1234567890
-      },
+      "address":"Hajipur Road, Near Karma Complex Top Floor, 823491(Bihar)",
+      "phone": "1234567890",
+      "state":"Bihar",
       "email":"user@user.com",
       "password": "abc123",
       "buy": [],
